@@ -1,1 +1,2 @@
-# OS_Bank_Management_System-
+# OS MINIPROJECT
+## Bank Management System
