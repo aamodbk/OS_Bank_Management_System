@@ -27,13 +27,13 @@ gcc client.c -o client
 
 ## Database Code
 
-The database code (`database.c`) provides functions to manage the user database. It includes functions to add new users, retrieve the next available user ID, and store user information in separate files for normal users, joint users, and administrators.
+The database code (`data.c`) provides functions to manage the user database. It includes functions to add new users, retrieve the next available user ID, and store user information in separate files for normal users, joint users, and administrators.
 
 To compile and run the database code, use the following commands:
 
 ```bash
-gcc database.c -o database
-./database
+gcc data.c -o data
+./data
 ```
 
 ## Usage
